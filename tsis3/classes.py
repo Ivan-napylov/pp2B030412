@@ -27,8 +27,8 @@ class Rectangle(Shape):
         print(self.width * self.len)
 
 
-Square(8, 2).area()
-Rectangle(8, 2).area()
+# Square(8, 2).area()
+# Rectangle(8, 2).area()
 
 
 class Point():
@@ -73,6 +73,12 @@ class Account():
         else:
             print("Your money: bzzzzzz")
             self.bal -= mon
+
+# acc = Account()
+# acc.owner("Ivan")
+# acc.balance(800)
+# acc.deposit(200)
+# acc.withdraw(1000)
 
 
 class filter():
