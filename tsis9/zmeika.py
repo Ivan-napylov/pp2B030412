@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Импортирую библиотеки
 
 import pygame
@@ -138,7 +137,6 @@ while game_run:
         dirs = {"W": True, "A": False, "S": True, "D": True}
 
 pygame.quit()
-=======
 # Импортирую библиотеки
 
 import pygame
@@ -278,4 +276,3 @@ while game_run:
         dirs = {"W": True, "A": False, "S": True, "D": True}
 
 pygame.quit()
->>>>>>> 985e77223eb5e18e20bef0d61673810c19912873
